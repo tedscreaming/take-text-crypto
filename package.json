@@ -1,0 +1,28 @@
+{
+  "name": "take-text-crypto",
+  "version": "1.0.0",
+  "description": "A collection of utilities for text encryption and hashing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tedscreaming/take-text-crypto"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "bcrypt": "^5.0.1",
+    "mindful-utils-mind": "1.0.0",
+    "jessicamogel03-random-array": "1.1.4",
+    "mystic-feed": "1.0.0",
+    "cosmic-tools-urge": "1.0.0",
+    "take-text-crypto": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedscreaming/take-text-crypto/issues"
+  },
+  "homepage": "https://github.com/tedscreaming/take-text-crypto#readme"
+}
